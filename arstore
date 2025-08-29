@@ -7,10 +7,78 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://private-user-images.githubusercontent.com/170628763/476239736-2e818cac-6ae7-4aed-9d14-986c49bd4f3b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ3MDQyNjMsIm5iZiI6MTc1NDcwMzk2MywicGF0aCI6Ii8xNzA2Mjg3NjMvNDc2MjM5NzM2LTJlODE4Y2FjLTZhZTctNGFlZC05ZDE0LTk4NmM0OWJkNGYzYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgwOVQwMTQ2MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNDRiYzUwOTU5NTk1Njk0MWUxYjg0MmI5MDg1NDRmNDUzMmY0NWY3MGQ2OGU5NTgxZTEzNTliNGM5YTUxMTdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8BHxPscA4T2JbX32R9jEDHjit1E7JlqZg-6EaSDw0j0", LIVE 1
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLgiCOPT:http-referrer=http://dens.tv
-https://www.youtube.com/watch?v=wZAfkTStYl0
+#EXTINF:-1 group-logo="https://iili.io/3imH2Hb.md.png" group-title="EVENT LIVE STREAMING" tvg-logo="https://iili.io/3iDsVFp.png",001 Jadwal Selengkapnya di APLIKASI KBTRTV
+https://drive.google.com/uc?export=download&id=1_aPxkg69ukhdXGRFMrGY_PMQmDU6Vrly&usp
+
+
+#EXTINF:-1 group-title="EVENT LIVE STREAMING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/2025_VTV_Ferroli_Cup_logo.png", 2025 VTV International Women's Volleyball Cup 1
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/nJlN2IUJL11JOtXGTO_-kA/Fv2lucGIbhPi2caWYvF5Lg/1751376636305/live/may17/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT LIVE STREAMING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/2025_VTV_Ferroli_Cup_logo.png", 2025 VTV International Women's Volleyball Cup 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/j-AXvjBsLIwCciOitJNE8A/Fv2lucGIbhPi2caWYvF5Lg/1751291602299/live/may4/chunklist.m3u8
+
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="EVENT LIVE STREAMING" , WORLD CUP CLUB 01
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="EVENT LIVE STREAMING" , WORLD CUP CLUB 02
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36
+https://dl.dropboxusercontent.com/s/uenc0nll23tpxp7/Event4.m3u8?st=h7d5c85i&dl=0|Referer=https://sol23.galaxy-stream.live/
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="EVENT LIVE STREAMING" , WORLD CUP CLUB 03
+http://goldv3.me:2082/live/drmtv43_476893/YFCPfQ3M/250343.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="EVENT LIVE STREAMING" , WORLD CUP CLUB 04
+http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="EVENT LIVE STREAMING" , WORLD CUP CLUB 05
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/novasport3.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="EVENT LIVE STREAMING" , WORLD CUP CLUB 06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii1.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="EVENT LIVE STREAMING" , WORLD CUP CLUB 07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii2.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="EVENT LIVE STREAMING" , WORLD CUP CLUB 08
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/mBbCtGyCedvC86St_hmJZA/Fv2lucGIbhPi2caWYvF5Lg/1750632955922/live/Z2SD/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT LIVE STREAMING"  tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", WORLD CUP CLUB 09
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/1WK1lDlKzAeAH2bjlKkX6Q/Fv2lucGIbhPi2caWYvF5Lg/1750287574941/live/Z1SD/chunklist.m3u8
+
+#EXTINF:-1 group-title="EVENT LIVE STREAMING"  tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", WORLD CUP CLUB 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
+
+#EXTINF:-1 group-title="EVENT LIVE STREAMING"  tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", WORLD CUP CLUB 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/sportv.m3u8
+
+#EXTINF:-1 group-title="EVENT LIVE STREAMING"  tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", WORLD CUP CLUB 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://goldv3.me:2082/live/drmtv43_476893/YFCPfQ3M/1058040.m3u8
+
+#EXTINF:-1 group-title="EVENT LIVE STREAMING"  tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", WORLD CUP CLUB 13
+http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
+
 
 
 
